@@ -1,5 +1,5 @@
 # MERN-Tasks
-[**Tasks Website**]([mailto:sanyam.chawla1281@gmail.com](https://sanchawla17.github.io/MERN-Tasks-Ethnus/))
+[**Tasks Website**](https://sanchawla17.github.io/MERN-Tasks-Ethnus/)
 ## Info
 **Name:** SANYAM CHAWLA <br/>
 **Reg No:** 21BPS1281 <br/>
