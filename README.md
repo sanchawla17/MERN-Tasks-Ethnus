@@ -1,5 +1,5 @@
 # MERN-Tasks
-[**Tasks Website**](https://sanchawla17.github.io/MERN-Tasks-Ethnus/)
+
 ## Info
 **Name:** SANYAM CHAWLA <br/>
 **Reg No:** 21BPS1281 <br/>
@@ -12,7 +12,8 @@ This repository includes all the tasks/works done during the course of the MERN 
 ### Consists of:
 - 5 HTML tasks
 - 7 CSS tasks
-- 6 Bootstrap Tasks
+- 6 Bootstrap tasks
+- 8 Javascript tasks
 
 ## Contact:
 
